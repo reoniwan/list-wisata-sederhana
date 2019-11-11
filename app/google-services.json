@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225781666481",
+    "firebase_url": "https://wisata-sanggau.firebaseio.com",
+    "project_id": "wisata-sanggau",
+    "storage_bucket": "wisata-sanggau.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225781666481:android:30f529b541288f415d0890",
+        "android_client_info": {
+          "package_name": "com.frozenproject.sanggauborneo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225781666481-vr5gqd77udl14895qpes8et8ifjsb1a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frozenproject.sanggauborneo",
+            "certificate_hash": "271808132b6bbd661508385139ebe10ad683311a"
+          }
+        },
+        {
+          "client_id": "225781666481-sc9b51vpve700t36k5gd7nc3a5op6juh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdteQS2owXLIIslWXhP75pdlBcLxtuu1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225781666481-sc9b51vpve700t36k5gd7nc3a5op6juh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
